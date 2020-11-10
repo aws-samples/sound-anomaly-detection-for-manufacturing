@@ -39,12 +39,16 @@ The dataset used is a subset of the MIMII dataset dedicated to industrial fans s
 |   \-- requirements.txt                      <-- Requirements file to update the training container 
 |                                                 at launch
 |
++-- pictures/                                 <-- Assets used in in the introduction and README.md
+|
 +-- tools/
 |   |-- rekognition_tools.py                  <-- Utilities to manage Rekognition custom labels models
 |   |                                             (start, stop, get inference...)
 |   |-- sound_tools.py                        <-- Utilities to manage sounds dataset
 |   \-- utils.py                              <-- Various tools to build files list, plot curves, and 
 |                                                 confusion matrix... 
+|
++-- 0_introduction.ipyng                      <-- Expose the context
 |
 +-- 1_data_exploration.ipynb                  <-- START HERE: data exploration notebook, useful to 
 |                                                 generate the datasets, get familiar with sound datasets
