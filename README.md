@@ -48,7 +48,7 @@ The dataset used is a subset of the MIMII dataset dedicated to industrial fans s
 |   \-- utils.py                              <-- Various tools to build files list, plot curves, and 
 |                                                 confusion matrix... 
 |
-+-- 0_introduction.ipyng                      <-- Expose the context
++-- 0_introduction.ipynb                      <-- Expose the context
 |
 +-- 1_data_exploration.ipynb                  <-- START HERE: data exploration notebook, useful to 
 |                                                 generate the datasets, get familiar with sound datasets
