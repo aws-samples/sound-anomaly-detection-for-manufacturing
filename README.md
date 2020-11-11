@@ -1,4 +1,4 @@
-# Helping AI to visualize sound to perform anomaly detection on industrial equipment
+# Performing anomaly detection on industrial equipment using audio signals
 
 This repository contains a sample on how to perform anomaly detection on machine sounds (based on the [MIMII Dataset](https://zenodo.org/record/3384388)) leveraging several approaches.
 
