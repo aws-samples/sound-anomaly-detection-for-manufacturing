@@ -2,6 +2,8 @@
 
 This repository contains a sample on how to perform anomaly detection on machine sounds (based on the [MIMII Dataset](https://zenodo.org/record/3384388)) leveraging several approaches.
 
+**Running time:** *once the dataset is downloaded, it takes roughly an hour and a half to go through all these notebooks from start to finish.*
+
 ## Overview
 Industrial companies have been collecting a massive amount of time series data about their operating processes, manufacturing production lines, industrial equipment... They sometime store years of data in historian systems. Whereas they are looking to prevent equipment breakdown that would stop a production line, avoid catastrophic failures in a power generation facility or improving their end product quality by adjusting their process parameters, having the ability to process time series data is a challenge that modern cloud technologies are up to. In this post, we are going to focus on preventing machine breakdown from happening.
 
